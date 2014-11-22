@@ -1,0 +1,12 @@
+name: Hub
+main: me.menno335.hub.Main
+author: menno335
+version: 0.1
+
+commands:
+  sethub:
+      description: Sets the spawnlocation
+      usage:
+  hub:
+      description: 
+      usage:
